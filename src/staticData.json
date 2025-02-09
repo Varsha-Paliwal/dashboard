@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "name": "T-Shirt",
+      "category": "Women Cloths",
+      "price": "79.80",
+      "stock": 79,
+      "status": "Scheduled"
+    },
+    {
+      "name": "Shirt",
+      "category": "Man Cloths",
+      "price": "76.89",
+      "stock": 86,
+      "status": "Active"
+    },
+    {
+      "name": "Pant",
+      "category": "Kid Cloths",
+      "price": "86.65",
+      "stock": 74,
+      "status": "Draft"
+    },
+    {
+      "name": "Sweater",
+      "category": "Man Cloths",
+      "price": "56.07",
+      "stock": 69,
+      "status": "Active"
+    },
+    {
+      "name": "Light Jacket",
+      "category": "Women Cloths",
+      "price": "36.07",
+      "stock": 65,
+      "status": "Draft"
+    },
+    {
+      "name": "Half Shirt",
+      "category": "Man Cloths",
+      "price": "46.78",
+      "stock": 58,
+      "status": "Active"
+    },
+    {
+      "name": "Half Shirt",
+      "category": "Sweater",
+      "price": "46.78",
+      "stock": 58,
+      "status": "Active"
+    },
+    {
+      "name": "Half Shirt",
+      "category": "Man Cloths",
+      "price": "46.78",
+      "stock": 58,
+      "status": "Scheduled"
+    },
+    {
+      "name": "Half Shirt",
+      "category": "Kid",
+      "price": "46.78",
+      "stock": 58,
+      "status": "Active"
+    }
+  ]
+}

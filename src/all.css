@@ -1,0 +1,20 @@
+.bg-nav {
+  background-color: #27445d;
+}
+
+.custom-heading-font-size {
+  font-size: 18px;
+}
+
+.table-dark {
+  background-color: #b1c29e !important;
+}
+
+.nav-link-active {
+  color: #b4a9a9f2;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  color: #f8f5e9;
+}
