@@ -33,7 +33,7 @@ const CustomNavbar = () => {
         {/* Navbar Links for Large Screens */}
         <Nav className="d-none d-lg-flex mx-auto">
           <NavLink
-            to="/"
+            to="/dashboard"
             className={({ isActive }) =>
               `text-white mx-3 fw-bold nav-link ${
                 isActive ? "nav-link-active" : ""
@@ -111,7 +111,7 @@ const CustomNavbar = () => {
         <Offcanvas.Body>
           <Nav className="flex-column">
             <NavLink
-              to="/"
+              to="/dashboard"
               className={({ isActive }) =>
                 `text-white my-2 fw-bold nav-link ${
                   isActive ? "nav-link-active" : ""

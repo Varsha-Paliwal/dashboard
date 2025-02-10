@@ -41,7 +41,7 @@ const AddProducts = () => {
       setErrors(validationErrors);
     } else {
       addProduct(formData);
-      navigate("/"); // Redirect to home page after adding product
+      navigate("/dashboard"); // Redirect to home page after adding product
     }
   };
 
