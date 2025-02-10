@@ -63,5 +63,10 @@
       "stock": 58,
       "status": "Active"
     }
-  ]
+  ],
+  "statusVariant": {
+    "Scheduled": "info",
+    "Active": "success",
+    "Draft": "warning"
+  }
 }
