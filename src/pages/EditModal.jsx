@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button, Badge, Form, Modal } from "react-bootstrap";
+import { Button, Form, Modal } from "react-bootstrap";
 import statusVariant from '../staticData.json'
 
 

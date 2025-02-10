@@ -5,63 +5,72 @@
       "category": "Women Cloths",
       "price": "79.80",
       "stock": 79,
-      "status": "Scheduled"
+      "status": "Scheduled",
+      "details": "Comfortable cotton t-shirt perfect for casual wear. Available in multiple colors."
     },
     {
       "name": "Shirt",
       "category": "Man Cloths",
       "price": "76.89",
       "stock": 86,
-      "status": "Active"
+      "status": "Active",
+      "details": "Formal men's shirt suitable for office and events. High-quality fabric."
     },
     {
       "name": "Pant",
       "category": "Kid Cloths",
       "price": "86.65",
       "stock": 74,
-      "status": "Draft"
+      "status": "Draft",
+      "details": "Durable and comfortable pants for kids. Perfect for playtime."
     },
     {
       "name": "Sweater",
       "category": "Man Cloths",
       "price": "56.07",
       "stock": 69,
-      "status": "Active"
+      "status": "Active",
+      "details": "Warm and cozy sweater for winter. Stylish design with a snug fit."
     },
     {
       "name": "Light Jacket",
       "category": "Women Cloths",
       "price": "36.07",
       "stock": 65,
-      "status": "Draft"
+      "status": "Draft",
+      "details": "Lightweight jacket perfect for spring and autumn. Water-resistant material."
     },
     {
       "name": "Half Shirt",
       "category": "Man Cloths",
       "price": "46.78",
       "stock": 58,
-      "status": "Active"
+      "status": "Active",
+      "details": "Casual half-sleeve shirt, great for summer outings and beachwear."
     },
     {
-      "name": "Half Shirt",
+      "name": "sss",
       "category": "Sweater",
       "price": "46.78",
       "stock": 58,
-      "status": "Active"
+      "status": "Active",
+      "details": "Stylish sweater with unique patterns. Keeps you warm and fashionable."
     },
     {
-      "name": "Half Shirt",
+      "name": "xxx",
       "category": "Man Cloths",
       "price": "46.78",
       "stock": 58,
-      "status": "Scheduled"
+      "status": "Scheduled",
+      "details": "Trendy men's outfit suitable for both casual and semi-formal occasions."
     },
     {
-      "name": "Half Shirt",
+      "name": "yyy",
       "category": "Kid",
       "price": "46.78",
       "stock": 58,
-      "status": "Active"
+      "status": "Active",
+      "details": "Fun and vibrant kid's clothing set. Made from soft, breathable fabric."
     }
   ],
   "statusVariant": {

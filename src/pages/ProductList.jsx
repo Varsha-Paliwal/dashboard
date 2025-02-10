@@ -1,6 +1,5 @@
 import React, { useState } from "react";
-import { Table, Button, Pagination} from "react-bootstrap";
-import { Trash3, Pencil } from "react-bootstrap-icons";
+import { Pagination} from "react-bootstrap";
 import { useProducts } from "../context/ProductContext";
 import SearchAndFilter from "./SearchAndFilter";
 import DeleteModal from "./DeleteModal";
