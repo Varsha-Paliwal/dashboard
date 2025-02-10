@@ -1,22 +1,25 @@
-React App Setup
+## Arcgate E-learning project
 
-Getting Started
+## Clone this git repository, if you haven't done already
 
-Clone the Repo:
-git clone
-cd <folderName>
+git init
 
-Install Dependencies:
+git remote add origin GitHub repository URL
+
+git pull origin branchName
+
+## To install node version v18 or higher version
+
+node -v
+
+## To install dependencies
+
 npm install
 
-Run the App:
+## To run the project itself
+
 npm start
 
-Build for Production:
+## To create the Build
+
 npm run build
-
-Learn More
-
-React Documentation
-
-Create React App Docs
