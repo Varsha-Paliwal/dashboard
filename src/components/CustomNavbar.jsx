@@ -17,7 +17,7 @@ const CustomNavbar = () => {
         className="d-flex justify-content-between align-items-center"
       >
         {/* Logo */}
-        <Navbar.Brand href="/">
+        <Navbar.Brand href="/dashboard">
           <img src={icubesLogo} alt="Logo" style={{ height: "40px" }} />
         </Navbar.Brand>
 
