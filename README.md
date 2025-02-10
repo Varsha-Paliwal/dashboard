@@ -1,4 +1,4 @@
-## Arcgate E-learning project
+## Dashboard
 
 ## Clone this git repository, if you haven't done already
 
