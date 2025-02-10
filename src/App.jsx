@@ -19,7 +19,7 @@ const App = () => {
         <div className="">
           <CustomNavbar />
           <Routes>
-            <Route path="/" element={<Dashboard />} />
+            <Route path="/dashboard" element={<Dashboard />} />
             <Route path="/products" element={<ProductsList />} />
             <Route path="/about" element={<About />} />
             <Route path="/customers" element={<Customers />} />
